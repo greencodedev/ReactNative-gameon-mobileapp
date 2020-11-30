@@ -1,3 +1,9 @@
+This project is React Native mobile app.
+# run project
+in cmd
+ yarn install
+ react-native run-android or react-native run-ios
+ 
 # GameOn-Frontend
 Frontend
 1. SignUp follow
